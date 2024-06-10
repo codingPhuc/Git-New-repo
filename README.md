@@ -2,5 +2,9 @@
 
 con gà 
 con bò 
-con sói 
+con sói
+
+con chó 
+con voi 
+con đà điểu
 
