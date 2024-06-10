@@ -46,3 +46,6 @@ Khỉ
 nhện 
 rắn
 voi
+tê giác
+gấu
+quỷ
