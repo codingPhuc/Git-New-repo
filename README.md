@@ -37,3 +37,6 @@ Heo
 Tê Tê
 Chó
 Dê
+Mèo
+Dơi
+Khỉ
