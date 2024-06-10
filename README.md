@@ -7,3 +7,7 @@ con bò
 con hổ
 con sư tử
 con chim
+
+con voi
+con cá
+con chó
