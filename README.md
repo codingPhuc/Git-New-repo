@@ -16,3 +16,7 @@ con sói
 con dê 
 con cá mập
 
+
+con vuon
+con khi 
+con husky
