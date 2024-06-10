@@ -8,3 +8,7 @@ con chó
 con voi 
 con đà điểu
 
+con sói
+con dê 
+con cá mập
+
