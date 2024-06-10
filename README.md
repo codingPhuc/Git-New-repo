@@ -31,3 +31,12 @@ con chim
 con voi
 con cá
 con chó
+Gà 
+Bò
+Heo
+Tê Tê
+Chó
+Dê
+Mèo
+Dơi
+Khỉ
