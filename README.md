@@ -20,3 +20,14 @@ con cá mập
 con vuon
 con khi 
 con husky
+con heo 
+con vịt 
+con bò
+
+con hổ
+con sư tử
+con chim
+
+con voi
+con cá
+con chó
