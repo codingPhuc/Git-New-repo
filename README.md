@@ -43,3 +43,6 @@ Dê
 Mèo
 Dơi
 Khỉ
+nhện 
+rắn
+voi
