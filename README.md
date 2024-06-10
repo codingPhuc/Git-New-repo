@@ -31,3 +31,4 @@ con chim
 con voi
 con cá
 con chó
+Gà 
