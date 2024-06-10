@@ -1,5 +1,5 @@
 "# Git-New-repo" 
 
-con hai cau
-con huou
-con nai
+con te te
+con su tu
+con dai bang
